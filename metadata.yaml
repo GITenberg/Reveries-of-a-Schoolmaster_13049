@@ -1,0 +1,34 @@
+_repo: Reveries-of-a-Schoolmaster_13049
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pearson, Francis B. (Francis Bail)
+    alias: Pearson, Francis Bail
+    birthdate: 1853
+    gutenberg_agent_id: '4799'
+    url: http://www.gutenberg.org/2009/agents/4799
+description: ''
+gutenberg_issued: '2004-07-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13049'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Teaching'
+- !lcsh 'Teachers -- Biography'
+- !lcc 'LB'
+- !lcsh 'Pearson, Francis B. (Francis Bail), 1853-'
+tableOfContents: In medias res -- Retrospect -- Brown -- Psychological -- Balking
+  -- Lanterns -- Complete living -- My speech -- School-teaching -- Beefsteak -- Freedom
+  -- Things -- Targets -- Sinners -- Hoeing potatoes -- Changing the mind -- The point
+  of view -- Picnics -- Make-believe -- Behavior -- Forefingers -- Story-telling --
+  Grandmother -- My world -- This or that -- Rabbit pedagogy -- Perspective -- Purely
+  pedagogical -- Longevity -- Four-leaf clover -- Mountain-climbing.
+title: Reveries of a Schoolmaster
+url: http://www.gutenberg.org/ebooks/13049
